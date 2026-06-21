@@ -1,8 +1,8 @@
 ---
-layout:default
+layout: default
 title: Lab Members
-parent:General Information
-nav order: 1
+parent: General Information
+nav_order: 1
 ---
 
-#Lab Members
+#Lab Members#
