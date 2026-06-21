@@ -5,7 +5,7 @@ parent: fNIRS
 nav_order: 1
 ---
 
-# General Information
+# Intro to fNIRS
 
 1. Brief Introduction about fNIRS
    [Please see this video](https://www.youtube.com/watch?v=y_mTFjNN5dc)
