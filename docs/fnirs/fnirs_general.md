@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General Information for fNIRS
+title: Intro to fNIRS
 parent: fNIRS
 nav_order: 1
 ---
