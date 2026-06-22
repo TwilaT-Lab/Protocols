@@ -2,7 +2,7 @@
 layout: default
 title: fNIRS SOP Overview
 parent: fNIRS
-nav_order: 1
+nav_order: 2
 ---
 
 # fNIRS SOP Overview
