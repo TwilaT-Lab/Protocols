@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Data Acquisition(Recording)
+title: fNIRS Recording
 parent: fNIRS
 nav_order: 9
 ---
