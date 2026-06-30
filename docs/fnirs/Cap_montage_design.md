@@ -52,7 +52,7 @@ NeuroImage, Volume 321, 2025, 121522, ISSN 1053-8119, https://doi.org/10.1016/j.
 > Sentence, word list, jabberwocky and non-word list reading for adults.
 > **Citation:** Yueh-Lin Li, Li-Ying Fan, Hsin-Chin Chen, Shiou-Yuan Chen, Ioulia Kovelman, Tai-Li Chou,
 Čeko, M., Hirshfield, L., Doherty, E. et al. Cortical cognitive processing during reading captured using functional-near infrared spectroscopy. Sci Rep 14, 19483 (2024). https://doi.org/10.1038/s41598-024-69630-x
->
+
 > **Neural Synchrony, Parent-Child Interaction**
 > fNIRS hyperscanning for parent-child play motor related game, ASD & typical developing children.
 > **Citation:** Jana A Kruppa, Vanessa Reindl, Christian Gerloff, Eileen Oberwelland Weiss, Julia Prinz, Beate Herpertz-Dahlmann, Kerstin Konrad, Martin Schulte-Rüther, Brain and motor synchrony in children and adolescents with ASD—a fNIRS hyperscanning study, Social Cognitive and Affective Neuroscience, Volume 16, Issue 1-2, January-February 2021, Pages 103–116, https://doi.org/10.1093/scan/nsaa092
