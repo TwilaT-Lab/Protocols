@@ -33,3 +33,22 @@ nav_order: 3
 4. **Upload / Save**
    Under "Save," choose **"Export to Aurora,"** or alternatively save 
    as a document and open it directly in Aurora.
+
+   ---
+ 
+## Related Papers
+ 
+> **Executive function(EF), Inhibitory Control**
+> Go/NoGo task based fNIRS recording for children.
+> **Citation:** Shah, L., Zhou, X., DiPiero, M.A. et al. Neural Correlates of Inhibitory Control in Children: Evidence Using MRI and fNIRS. Brain Topogr 38, 54 (2025). https://doi.org/10.1007/s10548-025-01129-8
+ 
+> **Phonological awareness**
+> Phonological awareness in Chinese-English bilingual children, aged 6–7.
+> **Citation:** Yueh-Lin Li, Li-Ying Fan, Hsin-Chin Chen, Shiou-Yuan Chen, Ioulia Kovelman, Tai-Li Chou,
+Developmental changes in phonological awareness in Chinese-English bilingual children: An fNIRS longitudinal study,
+NeuroImage, Volume 321, 2025, 121522, ISSN 1053-8119, https://doi.org/10.1016/j.neuroimage.2025.121522.
+ 
+> **Reading**
+> Sentence, word list, jabberwocky and non-word list reading, adults.
+> **Citation:** Yueh-Lin Li, Li-Ying Fan, Hsin-Chin Chen, Shiou-Yuan Chen, Ioulia Kovelman, Tai-Li Chou,
+Čeko, M., Hirshfield, L., Doherty, E. et al. Cortical cognitive processing during reading captured using functional-near infrared spectroscopy. Sci Rep 14, 19483 (2024). https://doi.org/10.1038/s41598-024-69630-x
