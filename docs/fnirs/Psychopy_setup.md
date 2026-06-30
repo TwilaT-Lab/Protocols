@@ -6,7 +6,7 @@ nav_order: 6
 ---
 # PsychoPy Setup
 
-PsychoPy handles stimulus presentation and (in this lab) trigger delivery to Aurora. Triggers mark the onset/offset of each condition so Satori can tell conditions apart during analysis.
+PsychoPy handles stimulus presentation and trigger delivery to Aurora. Triggers mark the onset/offset of each condition or period of study so Satori can tell conditions apart during analysis.
 
 ## Trigger Options
 
@@ -64,7 +64,7 @@ port.close()
 
 ---
 
-## Wireless Triggering via LSL (Preferred)
+## Wireless Triggering via LSL
 
 LSL synchronizes data and triggers over the same Wi-Fi/router network already used for the Aurora device connection.
 
@@ -77,6 +77,4 @@ LSL synchronizes data and triggers over the same Wi-Fi/router network already us
 ---
 
 ## General Reminders
-- Manual triggers (F1–F12) are best used for logging unexpected events (motion, noise) — not as the primary way of marking experimental conditions.
-- Make sure manually-used marker numbers aren't already assigned to an experimental condition.
 - Trigger files are saved automatically: `*_lsl.tri` (LSL/manual) and `*.tri` (hardware) in the recording's data folder.
